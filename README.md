@@ -1,8 +1,10 @@
 # The Art of Programming
-Repositorio para las clases de The Art of Programming (aop) de 3º de Ingeniería Informática de la UPM ([Guía docente 2020/2021](https://www.upm.es/comun_gauss/publico/guias/2020-21/1S/GA_10II_105000439_1S_2020-21.pdf))
+Repositorio para las clases de la asignatura optativa "The Art of Programming" (AoP) de 3º de Ingeniería Informática de la UPM ([Guía docente 2020/2021](https://www.upm.es/comun_gauss/publico/guias/2020-21/1S/GA_10II_105000439_1S_2020-21.pdf))
 
 ## Importante
-El fin de la existencia de este respositorio es de servir de soporte para la colaboración entre todos los alumnos que quieran, aportando su código o sus mejoras si las detectan.
+* Este respositorio tiene como objetivo el de servir de soporte para la colaboración entre los alumnos de la asignatura que quieran aportar cualquier sugerencia, ya sea con su código o con mejoras si las hubiera.
+* El uso correcto del respositorio es responsabilidad de cada uno. Trata de resolver los problemas que se planteen por ti mismo, y si no encuentras manera de solucionarlo recurre a tus docentes o compañeros antes de encontrar una posible solución.
+* El código aquí presente, aunque pase las pruebas, no significa que esté correcto.
 
 ## Puesta a punto
 Para llevar a cabo la asignatura se recomienda utilizar cualquier lenguaje de programación soportado por el UVa Judge. No obstante, utilizaremos Java puesto que se le dará soporte por parte de los profesores. Una vez tengamos configurado y preparado nuestro entorno de desarrollo, vamos a intentar trabajar con Git (y Github en este caso).
